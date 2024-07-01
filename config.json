@@ -1,0 +1,10 @@
+{
+    "api_key": "YOUR MOONSHOT API HERE",
+    "source_dir": "./pdf",
+    "save_path": "./res",
+    "log_file": "log.log",
+
+    "model_name": "moonshot-v1-128k",
+    "temperature": 0.01,
+    "max_token": 100000
+}

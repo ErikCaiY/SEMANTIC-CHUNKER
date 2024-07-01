@@ -37,6 +37,14 @@ See ./chunkerExample.py
 python ./chunkerExample
 ```
 
+### Examples
+You can find some examples in ./res
+```
+./res/1 计算机科学与技术专业.txt
+./res/3 软件工程专业 (嵌入式系统).txt
+./res/attentionIsAllYouNeed.txt
+```
+
 ## Processing pdf in other language or using other LLM
 
 If you want to process in other language, please modify the language of prompt (see ./semanticChunker/PROMPT.py ) or consider using alternative LLMs (like GPT-4o).

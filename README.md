@@ -14,11 +14,15 @@ api_key: YOUR MOONSHOT API KEY
     https://platform.moonshot.cn/console/api-keys
 
 source_dir: Your pdf dir
+
 save_path: The dir save your results,
+
 log_file: log
 
 model_name: "moonshot-v1-128k",
+
 temperature: 0.01,
+
 max_token: 100000,
 
 #### Run

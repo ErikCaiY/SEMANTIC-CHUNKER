@@ -38,6 +38,10 @@ python ./chunkerExample
 If you want to process in other language, please modify the language of prompt (see ./semanticChunker/PROMPT.py ) or consider using alternative LLMs (like GPT-4o).
 
 ## todo list
-1. - Support for other LLMs.
+1. [ ] Support for other LLMs.
    1.  [ ] ollama
    2.  [ ] openai
+2. [ ] Sopport files in other formats.
+   1. [ ] docx 
+   2. [ ] txt
+   3. [ ] markdown
